@@ -22,7 +22,7 @@ This is the backend for the Zenofy.me task. It provides RESTful APIs for user au
 - JavaMailSender (for sending emails)
 - JSON Web Tokens (JWT) for authentication
 - Lombok (for reducing boilerplate code)
-- JUnit and Mockito (for unit testing)
+- JUnit and Spring Boot (for unit testing)
 
 ## Project Structure
 
